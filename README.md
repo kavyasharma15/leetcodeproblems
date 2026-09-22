@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0088-merge-sorted-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kavyasharma15/leetcodeproblems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
